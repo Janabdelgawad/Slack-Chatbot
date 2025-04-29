@@ -49,10 +49,6 @@ This is a simple Slack bot that listens for direct mentions and responds to spec
 - **Main Loop**:
   - The bot runs in an infinite loop, maintaining a connection to Slack and processing events as they come in.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
 For any questions or issues, please open an issue on this repository or contact the maintainer.
